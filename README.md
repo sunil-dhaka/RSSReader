@@ -105,6 +105,11 @@ Share any URL from your browser to RSS Reader - it will attempt to discover and 
 2. Tap "Import feeds (OPML)"
 3. Select your OPML file
 
+## Future Features
+
+- AI summary button for articles
+- AI TTS functionality for accessibility
+
 ## License
 
 This project is for personal use.
