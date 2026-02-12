@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.svg" alt="RSS Reader Banner" width="100%"/>
+</p>
+
 # RSS Reader
 
 A modern, clean RSS/Atom feed reader for Android inspired by NetNewsWire. Built with Jetpack Compose and Material Design 3.

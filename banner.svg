@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 180" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="800" y2="180">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="180" rx="12" fill="url(#bg)"/>
+  <rect x="0" y="0" width="4" height="180" rx="2" fill="#2dd4bf" opacity="0.8"/>
+  <!-- RSS icon - modern take -->
+  <g transform="translate(110, 90)">
+    <!-- Signal dot -->
+    <circle cx="-22" cy="22" r="5" fill="#5eead4" opacity="0.8"/>
+    <!-- Arc 1 -->
+    <path d="M-22 10 Q-22 -2 -10 -2" stroke="#5eead4" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.7"/>
+    <!-- Arc 2 -->
+    <path d="M-22 -4 Q-22 -22 -4 -22" stroke="#5eead4" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.5"/>
+    <!-- Arc 3 -->
+    <path d="M-22 -18 Q-22 -42 2 -42" stroke="#5eead4" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.3"/>
+  </g>
+  <!-- Text -->
+  <text x="190" y="82" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="36" font-weight="600" fill="#e6edf3" letter-spacing="2">RSS Reader</text>
+  <text x="190" y="112" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#8b949e" letter-spacing="0.5">Modern Feed Aggregator</text>
+  <line x1="190" y1="122" x2="420" y2="122" stroke="#21262d" stroke-width="1"/>
+  <text x="190" y="142" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#6e7681">Clean, distraction-free reading inspired by NetNewsWire</text>
+</svg>
