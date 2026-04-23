@@ -42,20 +42,14 @@ A visual walkthrough of the app.
 ![Home empty state](assets/01_home_empty.png)
 *Launch — the feeds list is empty, prompting the user to add their first feed.*
 
-![Add feed sheet](assets/02_add_feed.png)
-*Tapping the + FAB opens the add-feed sheet with URL input and folder picker.*
-
 ![Add feed — URL entered](assets/03_add_feed_url.png)
-*User pastes a feed URL and the app is ready to discover and subscribe.*
+*Tapping the + FAB opens the add-feed sheet; user pastes a feed URL and is ready to subscribe.*
 
 ![Feeds list populated](assets/04_feeds_list.png)
 *After subscribing, the feed appears in the sidebar with unread counts.*
 
 ![Articles list](assets/05_articles_list.png)
 *Article list for the selected feed — titles, summaries, and publication dates.*
-
-![Article reader](assets/06_article_reader.png)
-*Clean reader view with Inter typography and optimized long-form reading.*
 
 ## Tech Stack
 
