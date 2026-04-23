@@ -39,17 +39,14 @@ A modern, clean RSS/Atom feed reader for Android inspired by NetNewsWire. Built 
 
 A visual walkthrough of the app.
 
-![Home empty state](assets/01_home_empty.png)
-*Launch — the feeds list is empty, prompting the user to add their first feed.*
-
-![Add feed — URL entered](assets/03_add_feed_url.png)
-*Tapping the + FAB opens the add-feed sheet; user pastes a feed URL and is ready to subscribe.*
-
-![Feeds list populated](assets/04_feeds_list.png)
-*After subscribing, the feed appears in the sidebar with unread counts.*
-
-![Articles list](assets/05_articles_list.png)
-*Article list for the selected feed — titles, summaries, and publication dates.*
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><img src="assets/01_home_empty.png" width="200"/><br/><sub>Empty home</sub></td>
+    <td align="center" width="25%"><img src="assets/03_add_feed_url.png" width="200"/><br/><sub>Add feed</sub></td>
+    <td align="center" width="25%"><img src="assets/04_feeds_list.png" width="200"/><br/><sub>Feeds list</sub></td>
+    <td align="center" width="25%"><img src="assets/05_articles_list.png" width="200"/><br/><sub>Articles</sub></td>
+  </tr>
+</table>
 
 ## Tech Stack
 
